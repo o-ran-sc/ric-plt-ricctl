@@ -1,0 +1,7 @@
+Code-Review+2: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Verified+1: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Submitted-by: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Submitted-at: Mon, 11 Oct 2021 22:29:13 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/ric-plt/ricctl/+/6865
+Project: ric-plt/ricctl
+Branch: refs/heads/master
